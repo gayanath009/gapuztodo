@@ -1,0 +1,28 @@
+.item {
+  width: 80%;
+  color: black;
+  margin: 0 auto;
+  font-size: 20px;
+}
+
+.itemname {
+  font-weight: bold;
+  color: #550033;
+  margin-right: 10px;
+  padding: 15px;
+}
+
+.line {
+  border: 1px solid #f4f4f4;
+}
+
+.delete {
+  float: right;
+  padding: 8px 16px;
+  border: none;
+  background-color: #550033;
+  color: white;
+  margin-top: -5;
+  border-radius: 4px;
+  cursor: pointer;
+}
